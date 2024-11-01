@@ -1,0 +1,5 @@
+tensorflow
+matplotlib
+fastapi
+scikit-learn
+uvicorn
